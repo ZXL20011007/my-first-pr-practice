@@ -1,1 +1,8 @@
-# my-first-pr-practice
+# 我的第一个 Git 练习
+
+今天日期：2026-05-16
+
+我成功完成了：
+- [x] 安装 Rust
+- [x] 创建 GitHub 账号
+- [x] clone 仓库到本地
